@@ -9,4 +9,6 @@ color: white;
   background-color: #383d58;
   color: white;
   display: flex;
+  justify-content: space-around;
 }
+
