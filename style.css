@@ -21,4 +21,7 @@ color: white;
 .escola-imagem{
     width:25%;
     background-image:linear-gradient(#383d58, #00c0eb);
+    color: white;
+    display: flex;
 }
+
